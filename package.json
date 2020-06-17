@@ -1,0 +1,15 @@
+{
+  "name": "climadeber",
+  "version": "1.0.0",
+  "description": "Tarea Clima PW",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Tapia",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  }
+}
